@@ -9,4 +9,7 @@ Dynamically predicting customer satisfaction for their oder will serve two purpo
 4. Compaaring different feature engineering alternatives as well as ML classification models for this particular problem.
 5. EDA provides BI descriptive analytics on how the company is performing in relation to review scores.
 
-
+__Models trained:__
+- Random Forest Classifier
+- Logistic Regression
+- XGBoost Classifier
