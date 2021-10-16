@@ -13,3 +13,5 @@ __Models trained:__
 - Random Forest Classifier
 - Logistic Regression
 - XGBoost Classifier
+
+Original dataset on: https://www.kaggle.com/olistbr/brazilian-ecommerce
